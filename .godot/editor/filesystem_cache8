@@ -1,0 +1,71 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1713825466
+export_presets.cfg::TextFile::-1::1713824376::0::1::::<><>::
+icon.svg::CompressedTexture2D::7078895664477841393::1712977605::1712977612::1::::<><>::
+::res://fonts/::1713824418
+::res://fonts/cat_comic/::1713824418
+Cat Comic.jpg::CompressedTexture2D::104207803825035524::1713137246::1713137248::1::::<><>::
+Cat Comic.otf::FontFile::4746416581362260080::1713137246::1713137248::1::::<><>::
+Cat Comic.ttf::FontFile::645435673222514955::1713137246::1713137248::1::::<><>::
+More Info.txt::TextFile::-1::1713137246::0::1::::<><>::
+::res://images/::1713824418
+balloon-treat.png::CompressedTexture2D::3007507931042837018::1713064498::1713064499::1::::<><>::
+cat-attack-dazed-1.png::CompressedTexture2D::7718920081594688158::1713111470::1713111636::1::::<><>::
+cat-attack-dazed-2.png::CompressedTexture2D::6582787107116387623::1713111635::1713111636::1::::<><>::
+cat-attack-dazed.png::CompressedTexture2D::8796221273604545416::1713111832::1713111835::1::::<><>::
+cat-attack-sheet.png::CompressedTexture2D::7341357689427782918::1713114290::1713114291::1::::<><>::
+cat-attack.png::CompressedTexture2D::5039866371994281761::1713105910::1713105911::1::::<><>::
+cat-black-sheet.png::CompressedTexture2D::6716241829750465080::1713113350::1713113353::1::::<><>::
+cat-black.png::CompressedTexture2D::6216512548087865849::1713014328::1713020012::1::::<><>::
+cat-burgler-claw.png::CompressedTexture2D::3534699815690616144::1713067852::1713067855::1::::<><>::
+cat-burgler.png::CompressedTexture2D::8919566455569792076::1713067834::1713067855::1::::<><>::
+cat-mini-sheet.png::CompressedTexture2D::6697002270452517714::1713120530::1713120531::1::::<><>::
+cat-poofy-1.png::CompressedTexture2D::6831567181790242217::1713062152::1713062166::1::::<><>::
+cat-poofy-2.png::CompressedTexture2D::2413666659252098693::1713063018::1713063022::1::::<><>::
+cat-poofy-sheet.png::CompressedTexture2D::3010019536327343109::1713113830::1713114291::1::::<><>::
+cat-spotted-sheet.png::CompressedTexture2D::1280669313431265649::1713113941::1713114291::1::::<><>::
+cat-spotted.png::CompressedTexture2D::611230521022547927::1713062165::1713062166::1::::<><>::
+cat-transform-fx.png::CompressedTexture2D::4700762525172864971::1713128252::1713128253::1::::<><>::
+couch-treat.png::CompressedTexture2D::4529086360904039527::1713125742::1713125743::1::::<><>::
+couch.png::CompressedTexture2D::3261483541720187866::1713026015::1713026034::1::::<><>::
+counter-items-sheet.png::CompressedTexture2D::8310453950549679399::1713123332::1713123332::1::::<><>::
+counter-top.png::CompressedTexture2D::3610175717977392397::1713019689::1713019693::1::::<><>::
+end.png::CompressedTexture2D::8686108052280523468::1713139081::1713139081::1::::<><>::
+energy-bar-notready.png::CompressedTexture2D::8319365341766051272::1713128745::1713128746::1::::<><>::
+energy-bar.png::CompressedTexture2D::1456127040110307914::1713059788::1713059790::1::::<><>::
+floor.png::CompressedTexture2D::915441857507869238::1713059207::1713059266::1::::<><>::
+menu.png::CompressedTexture2D::7680007719685595694::1713137793::1713137794::1::::<><>::
+rat.png::CompressedTexture2D::4134850627544893891::1713060829::1713019151::1::::<><>::
+::res://pallette/::1713824418
+brightday-40-1x.png::CompressedTexture2D::2672418058904308283::1712978095::1712978142::1::::<><>::
+::res://scenes/::1713824418
+cat-attack-attack.tscn::PackedScene::4248849650318543034::1713138339::0::1::::<><>::res://scripts/CatAttackAttack.cs<>uid://cd2l4loae6p2x::::res://images/cat-attack.png<>uid://dxk7qj80kyeqy::::res://images/cat-attack-dazed.png<>uid://cgb8qwdu72krd::::res://sfx/cat-attack-attack-hit.wav
+cat-burgler.tscn::PackedScene::8143219003074162542::1713138339::0::1::::<><>::res://scripts/CatBurgler.cs<>uid://bqmh8v52xb585::::res://images/cat-burgler-claw.png<>uid://d0cx7rsx8k517::::res://images/cat-burgler.png<>uid://d3wbputuq7ic5::::res://sfx/cat-burlger.wav
+cat.tscn::PackedScene::5753859212651488945::1713825348::0::1::::<><>::res://scripts/cat.gd<>uid://bang0cimbhxr6::::res://images/cat-poofy-2.png<>uid://c2ocwcgll4gys::::res://images/cat-mini-sheet.png<>uid://dcuhdamyx8dd3::::res://images/cat-attack-sheet.png<>uid://c2xnr0ce2mils::::res://images/cat-black-sheet.png<>uid://b78c4wbcpofrv::::res://images/cat-transform-fx.png<>uid://bi5ct11xqbio8::::res://images/cat-poofy-sheet.png<>uid://dg5xfdurms8f2::::res://sfx/cat-attack-attack.wav<>uid://simo3ttnpnn2::::res://images/cat-spotted-sheet.png<>uid://bunokw5v4yp35::::res://sfx/transform.wav<>uid://bbytj2jde72c0::::res://sfx/landing.wav<>uid://ds5bw48plpna5::::res://sfx/jump.wav
+couch.tscn::PackedScene::7313058775021765613::1713138339::0::1::::<><>::res://scripts/Obstacle.cs<>uid://bmp5fl8mt7k7c::::res://images/couch.png<>res://scripts/CouchTreatSpawner.cs<>uid://b05aicibyiaf6::::res://scenes/energy-pickup-couch.tscn
+counter-top.tscn::PackedScene::6709587725925523670::1713143462::0::1::::<><>::res://scripts/Obstacle.cs<>uid://bro2cjarem0g4::::res://images/counter-top.png<>uid://dqnv7yr5pvovn::::res://images/counter-items-sheet.png<>res://scripts/CounterItem.cs
+end.tscn::PackedScene::6229945260914853056::1713143462::0::1::::<><>::uid://dv0u6vy6h4lv5::::res://images/end.png<>uid://b8vg11rg4ol1q::::res://fonts/cat_comic/Cat Comic.otf
+energy-pickup-couch.tscn::PackedScene::4203087511099900841::1713132543::0::1::::<><>::res://scripts/EnergyPickup.cs<>uid://b5r6njumchmkl::::res://images/couch-treat.png<>uid://docvsih2ybxu6::::res://sfx/energy-aquire.wav
+energy-pickup-floating.tscn::PackedScene::5150624573889008783::1713138339::0::1::::<><>::res://scripts/EnergyPickup.cs<>uid://bi34hl7ncia2e::::res://images/balloon-treat.png<>uid://docvsih2ybxu6::::res://sfx/energy-aquire.wav
+main.gdshader::Shader::-1::1713825472::0::1::::<><>::
+main.tscn::PackedScene::1083894471876928967::1713825472::0::1::::<><>::res://scripts/main.gd<>uid://d1643t4upp0yh::::res://scenes/parallax-background.tscn<>uid://u0mg10nc0h0u::::res://images/energy-bar.png<>uid://cn8hhq82a72iv::::res://scenes/cat.tscn<>uid://cerp2l06ptfhb::::res://sfx/bgm.wav<>res://scenes/main.gdshader
+menu.tscn::PackedScene::7658776435951221385::1713143461::0::1::::<><>::res://scripts/Menu.cs<>uid://dhoiutqcixjas::::res://images/menu.png<>uid://b8vg11rg4ol1q::::res://fonts/cat_comic/Cat Comic.otf
+parallax-background.tscn::PackedScene::9049979534735916355::1713138339::0::1::::<><>::res://scripts/ParallaxBackground.cs<>uid://nbpgt4bmaiss::::res://images/floor.png
+rat-counted.tscn::PackedScene::3580560955509662497::1713143462::0::1::::<><>::uid://by57nd5ud1iit::::res://images/rat.png
+rat.tscn::PackedScene::5137715796741356988::1713138339::0::1::::<><>::res://scripts/Rat.cs<>uid://by57nd5ud1iit::::res://images/rat.png<>uid://1sjaq0kbot17::::res://sfx/rat-eat.wav
+spawner-floating-energy.tscn::PackedScene::2227008968649666257::1713125557::0::1::::<><>::res://scripts/Spawner.cs<>uid://cfnabfs3pmu04::::res://scenes/energy-pickup-floating.tscn
+spawner-rat.tscn::PackedScene::15908103907612977::1713138339::0::1::::<><>::res://scripts/Spawner.cs<>uid://cfg0otno8mxwe::::res://scenes/rat.tscn
+::res://scripts/::1713825079
+cat.gd::GDScript::-1::1713825342::0::1::::<>CharacterBody2D<>::
+main.gd::GDScript::-1::1713825427::0::1::::<>Node<>::
+::res://sfx/::1713824418
+bgm.wav::AudioStreamWAV::5089650752890534955::1713141129::1713141136::1::::<><>::
+cat-attack-attack-hit.wav::AudioStreamWAV::5198072201532888837::1713130583::1713130700::1::::<><>::
+cat-attack-attack.wav::AudioStreamWAV::7643732054587766713::1713130564::1713130700::1::::<><>::
+cat-burlger.wav::AudioStreamWAV::9170054568184508610::1713130631::1713130872::1::::<><>::
+energy-aquire.wav::AudioStreamWAV::8147342250917587147::1713130654::1713130700::1::::<><>::
+jump.wav::AudioStreamWAV::8484694148496889114::1713129643::1713129644::1::::<><>::
+landing.wav::AudioStreamWAV::2507325720612909225::1713130680::1713130700::1::::<><>::
+rat-eat.wav::AudioStreamWAV::1862616066546792544::1713130699::1713130700::1::::<><>::
+transform.wav::AudioStreamWAV::3817903565946000194::1713131858::1713131860::1::::<><>::
+::res://shaders/::1713825466

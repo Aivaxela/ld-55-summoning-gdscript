@@ -1,0 +1,15 @@
+res://scenes/cat-attack-attack.tscn::201bb90b518dce210eb4b29df03b54c1::1713138339::res://.godot/exported/133200997/export-84ad5f94d7251b58520c840577d4617d-cat-attack-attack.scn
+res://scenes/cat-burgler.tscn::3d1af4a72809644a2db136e273161d08::1713138339::res://.godot/exported/133200997/export-40e9049cc2301fc8e11289b4e2624e46-cat-burgler.scn
+res://scenes/cat.tscn::5a9208015503aa595450f2301e56afaa::1713143462::res://.godot/exported/133200997/export-6006eecc8d498190a776084499fc9af6-cat.scn
+res://scenes/couch.tscn::00439d22dce91eabea90d23e5fbcf4f8::1713138339::res://.godot/exported/133200997/export-ebc5675361a11f6fc87cb52f3984f471-couch.scn
+res://scenes/counter-top.tscn::67393236cc3b35651df09af2359f04bd::1713143462::res://.godot/exported/133200997/export-d54db165466ba3b8e088f061e40186c9-counter-top.scn
+res://scenes/energy-pickup-couch.tscn::dfb1478e07726f33f6e72ee7ff661205::1713132543::res://.godot/exported/133200997/export-278f0fdeb7d0f0bd86a7caed137387d4-energy-pickup-couch.scn
+res://scenes/energy-pickup-floating.tscn::48526f73ab1638d972612d342dc45689::1713138339::res://.godot/exported/133200997/export-b04e7f5dcc2dc53197788e05266d788c-energy-pickup-floating.scn
+res://scenes/main.tscn::958175a02ea9c65d39c56408fa826c3e::1713143462::res://.godot/exported/133200997/export-3ad5c15c4f3250da0cc7c1af1770d85f-main.scn
+res://scenes/parallax-background.tscn::de2ffdb771420539b0cc45b35e0b61b5::1713138339::res://.godot/exported/133200997/export-701f8f5bae4e6b8b1e26f32435424f0e-parallax-background.scn
+res://scenes/rat.tscn::032e183a19335a0309d55d99914cab8b::1713138339::res://.godot/exported/133200997/export-b872af63fd7d7a887525f2065260f946-rat.scn
+res://scenes/spawner-floating-energy.tscn::f14c482adaa25bd9076925517f39e1b4::1713125557::res://.godot/exported/133200997/export-11288ca3a75cf1da738f9453c9249d38-spawner-floating-energy.scn
+res://scenes/spawner-rat.tscn::c864922a81e37b6ccf7d4a8991540b1b::1713138339::res://.godot/exported/133200997/export-0e51e816e3960f34ca17c6e235d5d10e-spawner-rat.scn
+res://scenes/end.tscn::df1fbe0418e3c84a118206ab7b8e1dfc::1713143462::res://.godot/exported/133200997/export-1e48c555248fe5f55416d9e2a51f856b-end.scn
+res://scenes/menu.tscn::2237cfb84ddda2291a23bc8bdc580a08::1713143461::res://.godot/exported/133200997/export-1ce5c86e8ca186dcaaeaa8726f1268db-menu.scn
+res://scenes/rat-counted.tscn::e886595597e3467c98a3e31ec03fa0a3::1713143462::res://.godot/exported/133200997/export-7f2be4740cfdb091510b80d8abdb3544-rat-counted.scn

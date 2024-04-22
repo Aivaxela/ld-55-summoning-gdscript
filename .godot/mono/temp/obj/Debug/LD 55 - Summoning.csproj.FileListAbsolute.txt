@@ -1,0 +1,35 @@
+C:\Users\rmarc\Documents\LD 55 - Summoning\.godot\mono\temp\bin\Debug\LD 55 - Summoning.deps.json
+C:\Users\rmarc\Documents\LD 55 - Summoning\.godot\mono\temp\bin\Debug\LD 55 - Summoning.runtimeconfig.json
+C:\Users\rmarc\Documents\LD 55 - Summoning\.godot\mono\temp\bin\Debug\LD 55 - Summoning.dll
+C:\Users\rmarc\Documents\LD 55 - Summoning\.godot\mono\temp\bin\Debug\LD 55 - Summoning.pdb
+C:\Users\rmarc\Documents\LD 55 - Summoning\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\rmarc\Documents\LD 55 - Summoning\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\rmarc\Documents\LD 55 - Summoning\.godot\mono\temp\obj\Debug\LD 55 - Summoning.csproj.AssemblyReference.cache
+C:\Users\rmarc\Documents\LD 55 - Summoning\.godot\mono\temp\obj\Debug\LD 55 - Summoning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmarc\Documents\LD 55 - Summoning\.godot\mono\temp\obj\Debug\LD 55 - Summoning.AssemblyInfoInputs.cache
+C:\Users\rmarc\Documents\LD 55 - Summoning\.godot\mono\temp\obj\Debug\LD 55 - Summoning.AssemblyInfo.cs
+C:\Users\rmarc\Documents\LD 55 - Summoning\.godot\mono\temp\obj\Debug\LD 55 - Summoning.csproj.CoreCompileInputs.cache
+C:\Users\rmarc\Documents\LD 55 - Summoning\.godot\mono\temp\obj\Debug\LD 55 - Summoning.csproj.CopyComplete
+C:\Users\rmarc\Documents\LD 55 - Summoning\.godot\mono\temp\obj\Debug\LD 55 - Summoning.dll
+C:\Users\rmarc\Documents\LD 55 - Summoning\.godot\mono\temp\obj\Debug\refint\LD 55 - Summoning.dll
+C:\Users\rmarc\Documents\LD 55 - Summoning\.godot\mono\temp\obj\Debug\LD 55 - Summoning.pdb
+C:\Users\rmarc\Documents\LD 55 - Summoning\.godot\mono\temp\obj\Debug\LD 55 - Summoning.genruntimeconfig.cache
+C:\Users\rmarc\Documents\LD 55 - Summoning\.godot\mono\temp\obj\Debug\ref\LD 55 - Summoning.dll
+C:\Users\rmarc\Documents\ld-55-summoning\.godot\mono\temp\bin\Debug\LD 55 - Summoning.deps.json
+C:\Users\rmarc\Documents\ld-55-summoning\.godot\mono\temp\bin\Debug\LD 55 - Summoning.runtimeconfig.json
+C:\Users\rmarc\Documents\ld-55-summoning\.godot\mono\temp\bin\Debug\LD 55 - Summoning.dll
+C:\Users\rmarc\Documents\ld-55-summoning\.godot\mono\temp\bin\Debug\LD 55 - Summoning.pdb
+C:\Users\rmarc\Documents\ld-55-summoning\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\rmarc\Documents\ld-55-summoning\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\rmarc\Documents\ld-55-summoning\.godot\mono\temp\obj\Debug\LD 55 - Summoning.csproj.AssemblyReference.cache
+C:\Users\rmarc\Documents\ld-55-summoning\.godot\mono\temp\obj\Debug\LD 55 - Summoning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmarc\Documents\ld-55-summoning\.godot\mono\temp\obj\Debug\LD 55 - Summoning.AssemblyInfoInputs.cache
+C:\Users\rmarc\Documents\ld-55-summoning\.godot\mono\temp\obj\Debug\LD 55 - Summoning.AssemblyInfo.cs
+C:\Users\rmarc\Documents\ld-55-summoning\.godot\mono\temp\obj\Debug\LD 55 - Summoning.csproj.CoreCompileInputs.cache
+C:\Users\rmarc\Documents\ld-55-summoning\.godot\mono\temp\obj\Debug\LD 55 - Summoning.sourcelink.json
+C:\Users\rmarc\Documents\ld-55-summoning\.godot\mono\temp\obj\Debug\LD 55 - Summoning.csproj.CopyComplete
+C:\Users\rmarc\Documents\ld-55-summoning\.godot\mono\temp\obj\Debug\LD 55 - Summoning.dll
+C:\Users\rmarc\Documents\ld-55-summoning\.godot\mono\temp\obj\Debug\refint\LD 55 - Summoning.dll
+C:\Users\rmarc\Documents\ld-55-summoning\.godot\mono\temp\obj\Debug\LD 55 - Summoning.pdb
+C:\Users\rmarc\Documents\ld-55-summoning\.godot\mono\temp\obj\Debug\LD 55 - Summoning.genruntimeconfig.cache
+C:\Users\rmarc\Documents\ld-55-summoning\.godot\mono\temp\obj\Debug\ref\LD 55 - Summoning.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "guI4nxbrzyw32pfXX30C0zsB9If9WR+7llHKMia9WzIrxWiETyOp836eR8B54yegz1eFopq+DfjwEzy+aVdB/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rmarc\\Documents\\ld-55-summoning\\LD 55 - Summoning.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rmarc\\.nuget\\packages\\godot.sourcegenerators\\4.2.1\\godot.sourcegenerators.4.2.1.nupkg.sha512",
+    "C:\\Users\\rmarc\\.nuget\\packages\\godotsharp\\4.2.1\\godotsharp.4.2.1.nupkg.sha512",
+    "C:\\Users\\rmarc\\.nuget\\packages\\godotsharpeditor\\4.2.1\\godotsharpeditor.4.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

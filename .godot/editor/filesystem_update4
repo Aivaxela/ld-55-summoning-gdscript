@@ -1,0 +1,7 @@
+res://scenes/main.tscn
+res://scenes/main.gdshader
+res://scripts/main.gd
+res://scenes/cat.tscn
+res://scripts/cat.gd
+res://shaders/main.gdshader
+res://scenes/parallax-background.tscn
